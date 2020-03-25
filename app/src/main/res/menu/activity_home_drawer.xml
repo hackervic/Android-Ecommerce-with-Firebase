@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/cart"
+            android:title="@string/cart" />
+        <item
+            android:id="@+id/nav_orders"
+            android:icon="@drawable/you"
+            android:title="Viedo Tutorial" />
+        <item
+            android:id="@+id/nav_catagory"
+            android:icon="@drawable/category"
+            android:title="Kishan Call Centre"/>
+        <item
+            android:id="@+id/nav_setting"
+            android:title="@string/setting"
+            android:icon="@drawable/settings"/>
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:title="Logout" />
+        <item
+            android:id="@+id/nav_contact_us"
+            android:icon="@drawable/contactus"
+            android:title="Contact Us" />
+    </group>
+
+
+
+
+</menu>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <Button
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentStart="true"
+    android:background="@drawable/buttons"
+    android:layout_marginBottom="20dp"
+    android:text="@string/already_have_account_login"
+    android:textSize="10sp"
+    android:id="@+id/btn_login"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    android:padding="5dp"
+    android:textColor="#fff"
+
+/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_above="@+id/btn_login"
+        android:text="JOIN NOW"
+        android:id="@+id/register_btn"
+        android:background="@drawable/inputs_design"
+        android:textSize="10sp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:padding="5dp"
+        android:textColor="#fff"
+
+        />
+
+</RelativeLayout>

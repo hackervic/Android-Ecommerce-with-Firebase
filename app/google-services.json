@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "801519886900",
+    "firebase_url": "https://the-sasta.firebaseio.com",
+    "project_id": "the-sasta",
+    "storage_bucket": "the-sasta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801519886900:android:3d497fba1e1b8230",
+        "android_client_info": {
+          "package_name": "com.efarm.ed.friendlyfarmer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801519886900-7a538scq126bip73rcopn8rlgplv1bk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfj1iln_RSJXrD_o-4DUotKpn2Kuw2SOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801519886900:android:a410e0a748eea19e",
+        "android_client_info": {
+          "package_name": "com.example.blood.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801519886900-jm44mdb96dffqmndp9lf6vjf8lpf89t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blood.ecom",
+            "certificate_hash": "d1ba760e8b1433fac00035bb499c1c0c8fc84323"
+          }
+        },
+        {
+          "client_id": "801519886900-7a538scq126bip73rcopn8rlgplv1bk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfj1iln_RSJXrD_o-4DUotKpn2Kuw2SOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801519886900-7a538scq126bip73rcopn8rlgplv1bk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801519886900:android:516451dca0e67d65",
+        "android_client_info": {
+          "package_name": "com.example.blood.sasta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801519886900-5qihobs8dpi0tbc3obrd182sr0q01tit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blood.sasta",
+            "certificate_hash": "d1ba760e8b1433fac00035bb499c1c0c8fc84323"
+          }
+        },
+        {
+          "client_id": "801519886900-7a538scq126bip73rcopn8rlgplv1bk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfj1iln_RSJXrD_o-4DUotKpn2Kuw2SOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801519886900-7a538scq126bip73rcopn8rlgplv1bk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

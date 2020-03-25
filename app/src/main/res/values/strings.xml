@@ -1,0 +1,118 @@
+<resources>
+
+    <string name="appslogan">FIND , DISCOVER , CHOOSE AND BUY ANYTIME </string>
+    <string name="already_have_account_login">Already Have Account ? Login</string>
+    <string name="i_am_an_admin">I AM AN ADMIN ?</string>
+    <string name="i_am_not_an_admin">I am not an admin?</string>
+    <string name="create_account">Create Account</string>
+    <string name="phon_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget Password ?</string>
+    <string name="login">LOGIN</string>
+    <string name="add_new_products">Add New Products</string>
+    <string name="product_price">Product Price..</string>
+    <string name="add_product">Add Product</string>
+    <string name="product_description">Product Description..</string>
+    <string name="product_name">Product Name..</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="usernme">Username</string>
+    <string name="cart">Cart</string>
+    <string name="orders">Orders</string>
+    <string name="catagory">Catagory</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+    <string name="name_of_product">Name_of_product</string>
+    <string name="description_product">Description product</string>
+    <string name="price_product">price product</string>
+    <string name="close">Close</string>
+    <string name="update">Update</string>
+
+    <string name="prod_description">Product Description</string>
+    <string name="prod_price">Product Price</string>
+    <string name="produ_name">Product Name</string>
+    <string name="service_price">Service PRICE</string>
+    <string name="service_description">Service Description</string>
+    <string name="service_name">Service Name.</string>
+    <string name="add_your_service_product">Add Your Service/Product</string>
+    <string name="total_price">Total Price :</string>
+    <string name="add_product_to_cart">Add Product To Cart</string>
+    <string name="prod_name">Product Name</string>
+    <string name="prodt_description">Product Description</string>
+    <string name="product_quantity">Product Quantity</string>
+    <string name="prodct_price">Product Price</string>
+    <string name="qn">Quantity:-</string>
+    <string name="ff">Price:-</string>
+    <string name="please_cofirm_your_final_order">Please cofirm your final order</string>
+    <string name="please_confirm_your_shipment_detail">Please Confirm Your Shipment Detail</string>
+    <string name="your_shipment_name">Your Shipment Name</string>
+    <string name="shipment_number">Shipment Number</string>
+    <string name="shipment_address">Shipment Address</string>
+    <string name="shipment_city">Shipment City</string>
+    <string name="confirm">Confirm</string>
+    <string name="shipment_pincode">Shipment Pincode</string>
+    <string name="cv">Cart Value:-</string>
+    <string name="c">$</string>
+    <string name="tp">Total Price:-</string>
+    <string name="message_us">Message Us</string>
+    <string name="email_us">Email Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="fin">Finished sending email.</string>
+    <string name="change_profile_pic">Change Profile Pic</string>
+    <string name="name">Name..</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="address">Address..</string>
+    <string name="username">Username</string>
+    <string name="you_can_update_your_details_here">* you can update your details here</string>
+    <string name="cograts_your_final_order_has_been_confirmed_soon_you_will_recieve_your_product_at_your_door_step">Cograts Your Final Order Has Been Confirmed.Soon You Will Recieve Your Product At Your Door Step</string>
+    <string name="sh">shipping state = not shipped</string>
+    <string name="adf">cograts_your_final_order_has_been_confirmed_soon_you_will_recieve_your_product_at_your_door_step</string>
+    <string name="app_name">Friendly Farmer</string>
+    <string name="enter_code">enter code</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Farm Machinery and Tractors</string>
+    <string name="slide_1_desc">The easiest way to rent the farm machinery and tractors !!</string>
+
+    <string name="slide_2_title">Kishan Call Center</string>
+    <string name="slide_2_desc">Connect to Kishan Call Center 24*7 And Get Solution Anytime !!</string>
+
+    <string name="slide_3_title">Video Tutorial</string>
+    <string name="slide_3_desc">Get The Latest Video Tutorial About Farming Anytime Anywhere !!</string>
+
+    <string name="slide_4_title">Payment Gateway</string>
+    <string name="slide_4_desc">Pay Easily For Your Order Using Wallet , Bhim upi Or NetBamking</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="i_believe_in_the_future_of_agriculture_with_a_faith_born_not_of_words_but_of_deeds">“I believe in the future of agriculture, with a faith born not of words but of deeds.”</string>
+    <string name="cont">Continue</string>
+    <string name="country">Country</string>
+    <string name="we_will_send_you_an_one_time_password_otp_sms_message_carrier_rates_may_apply">We Will Send You An One Time Password (otp) SMS Message Carrier Rates May Apply</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="hint">Hint.</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="service_city">service city</string>
+    <string name="video_tutorial">Video Tutorial</string>
+    <string name="kishan_call_centre">Kishan Call Centre</string>
+    <string name="kcc">कृषि में आईसीटी की क्षमता का उपयोग करने के लिए, कृषि मंत्रालय द्वारा 21 जनवरी 2004 को किसान कॉल सेंटर
+        (KCCs)योजना का शुभारंभ किया I इस परियोजना का मुख्य उद्देश्य टेलीफोन कॉल पर किसानों के प्रश्नों का जवाब देना है I ये कॉल सेंटर राज्य और के
+        ंद्र शासित प्रदेशों के 14 विभिन्न स्थानों में कार्यरत हैं I देश व्यापी ग्यारह अंकों वाला टोल फ्री नंबर 1800-180-1551 किसान कॉल सेंटर के लिए आवंटित किया गया है I
+        यह नंबर सेवा सभी मोबाइल फोन और निजी सेवा प्रदाताओं सहित दूरसंचार नेटवर्क के लैंडलाइन फोन के माध्यम से पहुँचा जा सकता है I किसानों के सवालों के जवाब 22 स
+        ्थानीय भाषाओं में दिये जाते हैं कॉल सेंटर सेवायें प्रत्येक केसीसी से सप्ताह के सातों दिन पर 6.00 to 10.00 P.M उपलब्ध हैं II</string>
+    <string name="facility_by_kcc">Facility By KCC</string>
+    <string name="kcc2"><![CDATA[किसान 51969 या 7738299899 पर एक एसएमएस भेजकर पंजीकृत कर सकते हैं पंजीकरण के लिए प्रक्रिया और स्वरूप इस प्रकार हैं: - संदेश बॉक्स में टाइप के लिए प्रारूप है - किसान GOV REG < नाम > , <राज्य का नाम>, <जिला का नाम>, <ब्लॉक का नाम > (राज्य, जिला और ब्लॉक के नाम के केवल पहले 3 वर्णों की आवश्यकता होती है)संदेश लिखने के बाद 51969 या 7738299899 पर भेज दें किसान से इस एसएमएस के लिए शुल्क लिया जाएगा। हालांकि विशेषज्ञों और अधिकारियों से बाद में प्राप्त होने वाले एसएमएस के लिए कोई शुल्क नहीं होगा । कृपया ध्यान दें कि अल्पविराम (,) आवश्यक हैं ।]]></string>
+    <string name="post_your_queries_here">Post Your Queries Here</string>
+    <string name="o">OR</string>
+    <string name="call_us">Call Us</string>
+</resources>
